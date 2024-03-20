@@ -1,6 +1,6 @@
 # Tabela de IRRF em Java
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Logo Java" width="100">
 </p>
 
